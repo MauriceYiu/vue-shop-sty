@@ -1,0 +1,3 @@
+export const SET_USER_INFO = 'SET_USER_INFO';
+export const SET_CART_COUNT = 'SET_CART_COUNT';
+export const INIT_CART_COUNT = 'INIT_CART_COUNT';
